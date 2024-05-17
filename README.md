@@ -1,7 +1,7 @@
 # dbt_test_bigquery
 Repo to store files from DBT/BigQuery set up and testing
 
-1. Establish service account with Google Cloud.
+1. Establish service account with Google Cloud
 2. Set up Biq Query API credentials
 3. Connect Big Query API to DBT project w/ JSON file containing credentials
 4. Establish connection with GitHub and DBT to allow file storage and management
